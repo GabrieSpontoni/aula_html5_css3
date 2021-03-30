@@ -1,0 +1,26 @@
+body{
+    background: rgb(98, 122, 155);
+    margin-left: 50px;
+    margin-right: 300px;
+}
+
+header{
+    margin-top: 100px;
+}
+h1{
+    color: red;
+    font-family: fantasy ;
+}
+h2{
+    font-family: fantasy;
+}
+p{
+    font-size: 20px;
+}
+
+img{
+    margin-bottom: 30px;
+}
+.imagensnaruto{
+    margin-bottom: 200px;
+}
